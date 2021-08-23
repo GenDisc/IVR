@@ -90,7 +90,6 @@ python main.py --dataset_name CUB \
                --iou_threshold_list 30 50 70 \
                --eval_checkpoint_type last
                --norm_method ivr
-               --nwc False
 ```
 
 See [config.py](config.py) for the full descriptions of the arguments, especially 
