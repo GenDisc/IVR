@@ -1,4 +1,5 @@
-## Normalization Matters in Weakly Supervised Object Localization (ICCV 2021)
+## Normalization Matters in Weakly Supervised Object Localization 
+## (ICCV 2021)
 
 **99% of the code in this repository originates from this [link](https://github.com/clovaai/wsolevaluation).**
 
