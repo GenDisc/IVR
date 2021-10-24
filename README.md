@@ -126,10 +126,11 @@ SOFTWARE.
 ## 5. Citation
 
 ```
-@article{kim2021normalization,
+@inproceedings{kim2021normalization,
   title={Normalization Matters in Weakly Supervised Object Localization},
   author={Kim, Jeesoo and Choe, Junsuk and Yun, Sangdoo and Kwak, Nojun},
-  journal={arXiv preprint arXiv:2107.13221},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3427--3436},
   year={2021}
 }
 ```
